@@ -13,5 +13,3 @@ I have a strong background in **molecular biology and genetics**, with hands-on 
 - ✨ Interested in projects that combine **data science + biology**  
 
 ---
-
-✨ **Open to collaborations in bioinformatics, computational biology, and health data analysis.**  
