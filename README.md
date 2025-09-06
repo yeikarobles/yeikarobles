@@ -1,36 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Yeika Robles!  
 
-<!--
-**yeikarobles/yeikarobles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Medical Laboratory Scientist | 🧬 Transitioning into Bioinformatics | 📊 Aspiring Data Analyst in Health**  
 
-Here are some ideas to get you started:
+I have a strong background in **molecular biology and genetics**, with hands-on experience in laboratory techniques. Recently, I’ve been expanding my skills in **data analysis and bioinformatics**, aiming to apply data-driven approaches to challenges in **healthcare and biomedical research**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🧪 About Me  
+- 🎓 Background in molecular biology and genetics  
+- 📈 Experience analyzing data with **Python, R, SQL, and Excel**  
+- 🧬 Skilled in **bioinformatics tools** (Biopython, BLAST, Galaxy, NCBI tools)  
+- 📊 Data visualization and dashboards with **Power BI and Matplotlib**  
+- 🌱 Currently learning **machine learning for health data**  
+- ✨ Interested in projects that combine **data science + biology**  
 
-### 👋 Hola, soy Yeika Robles
+---
 
-💡 Bioanalista | 🧬 Apasionada por la biotecnología y la ciencia de datos en salud  
-🧪 Actualmente explorando la bioinformática y el desarrollo de software para laboratorios clínicos.
+## ⚙️ Tools & Technologies  
+![Python](https://img.shields.io/badge/Python-3.9-blue)  
+![R](https://img.shields.io/badge/R-Data%20Analysis-lightgrey)  
+![SQL](https://img.shields.io/badge/SQL-Database-orange)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)  
+![Excel](https://img.shields.io/badge/Excel-Advanced-green)  
+![Biopython](https://img.shields.io/badge/BioPython-Bioinformatics-brightgreen)  
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)  
+![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)  
 
-🔬 Tecnologías:
-- Python, R, SQL
-- Google Data Studio, Excel Avanzado
-- Git, GitHub
-- React (aprendiendo) | Jupyter Notebooks | Google Colab
+---
 
-🔗 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/-Portafolio-000?style=flat&logo=vercel)](https://tuportafolio.com)
+## 📌 Featured Future Projects
+🔗 [**Genetic Data Analysis**](#) – Exploration and visualization of genomic variants  
+🔗 [**Health Dashboard**](#) – Interactive Power BI dashboard for health indicators monitoring  
+🔗 [**Lab Automation Scripts**](#) – Python tools for processing experimental data  
 
+*(More projects coming soon 👩‍💻)*  
 
-![Yeika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeikarobles&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeikarobles&layout=compact&theme=radical)
+---
+
+## 📊 GitHub Stats  
+![Yeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikarobles&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeikarobles&layout=compact&theme=tokyonight)  
+
+---
+
+✨ **Open to collaborations in bioinformatics, computational biology, and health data analysis.**  
