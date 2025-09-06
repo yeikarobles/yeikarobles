@@ -4,8 +4,6 @@
 
 I have a strong background in **molecular biology and genetics**, with hands-on experience in laboratory techniques. Recently, I’ve been expanding my skills in **data analysis and bioinformatics**, aiming to apply data-driven approaches to challenges in **healthcare and biomedical research**.  
 
----
-
 ## 🧪 About Me  
 - 🎓 Background in molecular biology and genetics  
 - 📈 Experience analyzing data with **Python, R, SQL, and Excel**  
