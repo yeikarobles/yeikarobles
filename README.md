@@ -16,31 +16,4 @@ I have a strong background in **molecular biology and genetics**, with hands-on 
 
 ---
 
-## ⚙️ Tools & Technologies  
-![Python](https://img.shields.io/badge/Python-3.9-blue)  
-![R](https://img.shields.io/badge/R-Data%20Analysis-lightgrey)  
-![SQL](https://img.shields.io/badge/SQL-Database-orange)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)  
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)  
-![Biopython](https://img.shields.io/badge/BioPython-Bioinformatics-brightgreen)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)  
-![GitHub](https://img.shields.io/badge/GitHub-Collaboration-black)  
-
----
-
-## 📌 Featured Future Projects
-🔗 [**Genetic Data Analysis**](#) – Exploration and visualization of genomic variants  
-🔗 [**Health Dashboard**](#) – Interactive Power BI dashboard for health indicators monitoring  
-🔗 [**Lab Automation Scripts**](#) – Python tools for processing experimental data  
-
-*(More projects coming soon 👩‍💻)*  
-
----
-
-## 📊 GitHub Stats  
-![Yeika's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeikarobles&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeikarobles&layout=compact&theme=tokyonight)  
-
----
-
 ✨ **Open to collaborations in bioinformatics, computational biology, and health data analysis.**  
