@@ -1,15 +1,16 @@
-# 👋 Hi, I'm Yeika Robles!  
+# 👋 Hi, I'm Yeika Robles
 
-🔬 **Medical Laboratory Scientist | 🧬 Transitioning into Bioinformatics | 📊 Aspiring Data Analyst in Health**  
+🔬 **Clinical Bioanalyst | 🧬 Genomic Data Analysis | 💻 Python & R**
 
-I have a strong background in **molecular biology and genetics**, with hands-on experience in laboratory techniques. Recently, I’ve been expanding my skills in **data analysis and bioinformatics**, aiming to apply data-driven approaches to challenges in **healthcare and biomedical research**.  
+Medical Laboratory Scientist integrating clinical expertise with computational genomics. Focused on automating Quality Control (ISO 15189) and processing NGS data.
 
-## 🧪 About Me  
-- 🎓 Background in molecular biology and genetics  
-- 📈 Experience analyzing data with **Python, R, SQL, and Excel**  
-- 🧬 Skilled in **bioinformatics tools** (Biopython, BLAST, Galaxy, NCBI tools)  
-- 📊 Data visualization and dashboards with **Power BI and Matplotlib**  
-- 🌱 Currently learning **machine learning for health data**  
-- ✨ Interested in projects that combine **data science + biology**  
+## 🧪 Professional Profile
+- 🎓 **Clinical Background:** Licensed Bioanalyst.
+- 🧬 **Bioinformatics:** Genomic Data Science (JHU).
+- 📊 **Data Analysis:** Google Data Analytics Professional Certificate.
+- 🌍 **Languages:** Spanish (Native) | English (C2 - Proficient).
 
----
+## 🔧 Technical Stack
+- **Languages:** Python, R, SQL, Bash/Unix.
+- **Libraries:** Pandas, NumPy, Biopython, Tidyverse.
+- **Key Skills:** NGS Pipelines, QC Automation, Data Cleaning.
